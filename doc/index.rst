@@ -8,6 +8,11 @@ Welcome to Sphinx Internationalization Example's documentation!
 
 Contents:
 
+Hello, document writers and translators!
+
+This is an example of Sphinx Internationalization.
+Could you see this document in English?
+
 .. toctree::
    :maxdepth: 2
 
@@ -19,4 +24,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
