@@ -8,10 +8,10 @@ Welcome to Sphinx Internationalization Example's documentation!
 
 Contents:
 
-こんにちは、ドキュメントの著者と翻訳者のかた
+Hello, document writers and translators!
 
-これは Sphinx 国際化の一例です。
-このドキュメントが日本語で見えていますか？
+This is an example of Sphinx Internationalization.
+Could you see this document in English?
 
 .. toctree::
    :maxdepth: 2
